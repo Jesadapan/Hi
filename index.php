@@ -16,7 +16,7 @@
     .font {
       background-color: rgba(10, 209, 149, 0.623);
       box-shadow: 0 4px 10px 0 rgb(0, 0, 7);
-      width: 100%;
+      width: 60%;
       font-size: 25px;
       margin: auto;
       margin-top: 20px;
@@ -48,9 +48,9 @@
          <div class="font"> <br>
           <h1><b><center>Check Weather</center></b></h1>
           <div class="row">
-              <input type="text" id="LATI" placeholder="Latitude" class="form-control" style="width: 300px; margin-left: 50px; margin-top: 20px;" > 
-              <input type="text" id="LONG" placeholder="Longitude" class="form-control" style="width: 300px; margin-left: 50px;  margin-top: 20px; "> 
-             <button id="discover" class="btn btn-warning btn-sm" style=" width: 170px; color: white; box-shadow: 0 2px 4px 0 rgb(20, 0, 0); margin-left: 20px; margin-top: 20px;"><b>Load</b></button>
+              <input type="text" id="LATI" placeholder="Latitude" class="form-control" style="width: 180px; margin-left: 30px; margin-top: 20px;" > 
+              <input type="text" id="LONG" placeholder="Longitude" class="form-control" style="width: 180px; margin-left: 30px;  margin-top: 20px; "> 
+             <button id="discover" class="btn btn-warning btn-sm" style=" width: 150px; color: white; box-shadow: 0 2px 4px 0 rgb(20, 0, 0); margin-left: 20px; margin-top: 20px;"><b>Load</b></button>
              
             </div>
             <br>
